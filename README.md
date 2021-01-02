@@ -1,2 +1,2 @@
 # SnakeGame
-a simple and funny snake game application. 
+A simple and funny snake game application using C#
